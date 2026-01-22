@@ -31,3 +31,20 @@ This Android application is designed to improve productivity and time management
 - Analytics of app usage patterns
 - Custom notifications before blocking
 - Support for multiple users
+
+- 
+  ## Features
+- Track daily app usage time
+- Show most used apps
+- Simple and clean UI
+- Helps improve time management
+
+## Tech Stack
+- Android
+- Java
+- Android Studio
+
+## Future Plans
+- App usage limit
+- Notification alerts
+- AI-based usage suggestions
